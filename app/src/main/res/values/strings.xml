@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">palindrome</string>
+    <string name="btnCheck">CHECK</string>
+    <string name="btnNext">NEXT</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="select_a_user">Select a User</string>
+    <string name="user_full_name">%1$s %2$s</string>
+    <string name="retry">Retry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_available">No data available</string>
+</resources>
